@@ -77,22 +77,22 @@
 
 <img src="Images/motor back cover.png">
 
-### 16. Motor Rotor
+### 17. Motor Rotor
 
 <img src="Images/rotor.png">
 
-### 16. Motor Stator
+### 18. Motor Stator
 
 <img src="Images/brg housing cover.png">
 
-### 16. Motor Stand
+### 19. Motor Stand
 
 <img src="Images/motor stand.png">
 
-### 16. Motor Cover
+### 20. Motor Cover
 
 <img src="Images/cover.png">
 
-### 16. Moulded Product
+### 21. Moulded Product
 
 <img src="Images/molded product.png">
